@@ -1,12 +1,12 @@
 body{
-	background-image: url(Images/Milky.WEBP);
+	background-image: url(images/Milky.webp);
 	background-size: cover;
 	
 		
 	font-family: Times new Roman;
 }
 .head{
-	background-image: url(Images/Star.WEBP);
+	background-image: url(images/Star.webp);
 	text-shadow: 0px 0px 11px rgba(161,37,187,0.91);
 	margin: 30px;
 	padding: 30px;

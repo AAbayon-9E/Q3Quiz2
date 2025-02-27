@@ -1,0 +1,65 @@
+body{
+	background-image: url(https://static.wikia.nocookie.net/cookierunkingdom/images/3/31/Milky_way_gacha_background.png/revision/latest/scale-to-width-down/2144?cb=20230117220450);
+	background-size: cover;
+	
+		
+	font-family: Times new Roman;
+}
+.head{
+	background-image: url(https://static.wikia.nocookie.net/cookie-run-kingdom-ocs/images/9/9e/Eternal_city_of_wizards_cutscene_background_space.jpg/revision/latest?cb=20231114123423);
+	text-shadow: 0px 0px 11px rgba(161,37,187,0.91);
+	margin: 30px;
+	padding: 30px;
+	background-size: cover;
+	background-position: center;
+	border-top-left-radius: 40px;
+	border-top-right-radius: 40px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	box-shadow: 0px 0px 67px -26px rgba(255,255,255,0.68);
+	-webkit-box-shadow: 0px 0px 67px -26px rgba(255,255,255,0.68);
+	-moz-box-shadow: 0px 0px 67px -26px rgba(255,255,255,0.68);
+	color: white;
+}
+.form{
+	color: black;
+	box-shadow: 0px 0px 67px 11px rgba(0,0,162,0.58);
+	-webkit-box-shadow: 0px 0px 67px 11px rgba(0,0,162,0.58);
+	-moz-box-shadow: 0px 0px 67px 11px rgba(0,0,162,0.58);
+	margin: 30px;
+	padding: 70px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	color: white;
+
+}
+.fbg{
+	background: rgba(33, 33, 33, .3);
+	margin: 30px;
+	padding: 20px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 40px;
+	box-shadow: 0px 0px 54px 58px rgba(214,135,255,0.59);
+	-webkit-box-shadow: 0px 0px 54px 58px rgba(214,135,255,0.59);
+	-moz-box-shadow: 0px 0px 54px 58px rgba(214,135,255,0.59);
+summary{
+	background-color: #DED6FF;
+	margin: 15px;
+	padding: 15px;
+	opacity: 90%;
+	border-radius: 30px;
+	color: black;
+	margin-left: 400px;
+	margin-right: 400px;
+}
+.form-control{
+	margin: 30px;
+	padding: 10px;
+
+
+}
+hr{
+	margin: 30px;
+}
